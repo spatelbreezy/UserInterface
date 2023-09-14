@@ -1,0 +1,27 @@
+> > Document name: "main_document"
+Number of Paragraphs: 3
+During advising season you
+can discuss your future
+courses with CS 
+undergraduate advisors.
+
+When coming for advising
+you should learn a bit about 
+course you are planning to take.
+
+In particular, you should have
+a 4-year plan.
+> > Document name: "main_document"
+Number of Paragraphs: 3
+During advising season you
+can discuss your future
+courses with  The Computer Science  
+undergraduate advisors.
+
+When coming for advising
+you should learn a bit about 
+course you are planning to take.
+
+In particular, you should have
+a 4-year plan.
+> 
